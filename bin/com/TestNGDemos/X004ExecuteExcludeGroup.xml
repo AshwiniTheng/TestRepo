@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MyTest">
+	<test name="MyTest">
+		<classes>
+			<class name="com.TestNGDemos.D002AmazonTest02">
+			</class>
+		</classes>
+		<groups>
+			<run>
+				<exclude name="Firstgroup"></exclude>
+			</run>
+		</groups>
+	</test>
+</suite>
